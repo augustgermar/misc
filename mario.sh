@@ -1,5 +1,3 @@
-
-
 #!/bin/bash
 echo "Play Underworld Music from Mario"
 
